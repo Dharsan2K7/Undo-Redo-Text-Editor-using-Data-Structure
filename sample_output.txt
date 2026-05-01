@@ -1,0 +1,77 @@
+--- Undo-Redo Text Editor ---
+1. Append Text
+2. Undo
+3. Redo
+4. Display
+5. Save
+6. Load
+7. Exit
+Choice: 1
+Enter text to append: add
+Appended: add
+
+--- Undo-Redo Text Editor ---
+1. Append Text
+2. Undo
+3. Redo
+4. Display
+5. Save
+6. Load
+7. Exit
+Choice: 2
+Undo successful.
+
+--- Undo-Redo Text Editor ---
+1. Append Text
+2. Undo
+3. Redo
+4. Display
+5. Save
+6. Load
+7. Exit
+Choice: 3
+Redo successful.
+
+--- Undo-Redo Text Editor ---
+1. Append Text
+2. Undo
+3. Redo
+4. Display
+5. Save
+6. Load
+7. Exit
+Choice: 4
+Current Document: add
+
+--- Undo-Redo Text Editor ---
+1. Append Text
+2. Undo
+3. Redo
+4. Display
+5. Save
+6. Load
+7. Exit
+Choice: 5
+Error saving file!
+
+--- Undo-Redo Text Editor ---
+1. Append Text
+2. Undo
+3. Redo
+4. Display
+5. Save
+6. Load
+7. Exit
+Choice: 6
+File not found!
+
+--- Undo-Redo Text Editor ---
+1. Append Text
+2. Undo
+3. Redo
+4. Display
+5. Save
+6. Load
+7. Exit
+Choice: 7
+Exiting...
