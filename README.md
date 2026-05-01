@@ -57,3 +57,5 @@ Two stacks are used:
 Undo-Redo-Text-Editor/
 │── main.cpp
 │── README.md
+│── report.dock
+│── sample_output.txt
